@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ManejoArchivos.Consola/1.0.0": {
+        "dependencies": {
+          "ManejoArchivos.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "ManejoArchivos.Consola.dll": {}
+        }
+      },
+      "ManejoArchivos.Negocio/1.0.0": {
+        "runtime": {
+          "ManejoArchivos.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManejoArchivos.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManejoArchivos.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

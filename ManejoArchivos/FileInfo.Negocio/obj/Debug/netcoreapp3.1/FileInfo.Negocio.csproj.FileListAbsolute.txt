@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\bin\Debug\netcoreapp3.1\FileInfo.Negocio.deps.json
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\bin\Debug\netcoreapp3.1\FileInfo.Negocio.dll
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\bin\Debug\netcoreapp3.1\FileInfo.Negocio.pdb
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.AssemblyInfo.cs
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.dll
+C:\Users\HP\source\repos\ManejoArchivos\FileInfo.Negocio\obj\Debug\netcoreapp3.1\FileInfo.Negocio.pdb
